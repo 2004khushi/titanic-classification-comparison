@@ -59,3 +59,9 @@ Models were compared using the following metrics:
     ```
 3.  **Run the Notebook:**
     Launch `classification_models.ipynb` in your preferred environment.
+
+
+## 🫡 New Update 
+
+- **Added Cross Validation too**
+- **To access that file use ->** classification_models_withCrossValidation.ipynb
